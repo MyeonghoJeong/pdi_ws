@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "chrono": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "alignedvector3": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
